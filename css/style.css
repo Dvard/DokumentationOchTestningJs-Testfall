@@ -1,0 +1,14 @@
+img { width: 200px; }
+
+button { margin: 10px 20px; }
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  transition: width 1s ease-in;
+}
+
+.animateWidth {
+  width: 200px;
+}
